@@ -1,6 +1,6 @@
 # Our services & what we do
 
-### Web Development
+### 💻 Web Development
 * Landing / One-Pagers
 * Personal CV and Blogs
 * Mainly WordPress
@@ -11,27 +11,27 @@
 * eCommerce Web Stores
 * Destination Websites
 
-### Marketing & SEO
+### 📌 Marketing & SEO
 * Search Engine Marketing
 * Search Engine Optimisation
 * Search Engine Ranking
 * Social Media Marketing
 * Speed Optimisation
 
-### IT Support
+### 🤝 IT Support
 * Setup and Support
 * IT Consulting & Security
 * Managed IT Services
 * On-site IT Support
 * Remote Technical Support
 
-### Web Hosting
+### ⚡ Web Hosting
 * Domain Registration
 * Email & Web Hosting
 * Dedicated Server Hosting
 * Shared Web Hosting
 
-### Workshops
+### 🎓 Workshops
 * CMS Basics
 * Build your own website
 * SEO Basics, Tips and Tricks
