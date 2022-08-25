@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: Unser Lubmin github.io page
 description: Coding at the coastline
+show_downloads: false
