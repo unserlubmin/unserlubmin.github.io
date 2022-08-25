@@ -1,7 +1,4 @@
-# Welcome
-
-## OUR SERVICES
-**What we do**
+# Our services & what we do
 
 ### Web Development
 * Landing / One-Pagers
